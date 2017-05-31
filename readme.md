@@ -1,4 +1,4 @@
-#Data Analytics for Managers
+# Data Analytics for Managers
 
 ## Summary
 A short workshop for civil servants to explore data-driven thinking and data analysis as part of the [2017 NYC School of Data](https://beta.nyc/2017/02/18/school-of-data-2017/). Uses relevant examples from U.S. cities, open data and MS Excel to give students a taste of how analysts ask and answer questions using data and how policymakers apply those insights to real-life scenarios.
